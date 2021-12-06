@@ -10,5 +10,6 @@ public class HelloGit {
         System.out.println("Hello Git!");
         System.out.println("master commit");
         System.out.println("hot-fix commit");
+        System.out.println("push commit");
     }
 }
